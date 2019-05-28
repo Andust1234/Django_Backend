@@ -1,5 +1,5 @@
 from django.contrib import admin
-
+# builds the Admin panel to configure the polls
 from .models import Choice, Question
 
 class ChoiceInline(admin.TabularInline):
