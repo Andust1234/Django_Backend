@@ -19,3 +19,5 @@ Packages die Installiert sein müssen:
 Python 3.7
 
 SQL parser
+
+Python Interpreter (Pylint)
